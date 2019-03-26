@@ -13,7 +13,7 @@
         </header>
         <section class="loginCont">
             <form class="loginForm" action="UserServlet.do">
-                <input type="hidden"/>
+                
                 <div class="inputbox">
                     <label for="user">用户名：</label>
                     <input id="user" type="text" name="username" placeholder="请输入用户名" required/>
